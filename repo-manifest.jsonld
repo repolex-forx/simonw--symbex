@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/symbex/commit/81c4b9c042f271f0d8b9a4d50095876cd54e05a2",
       "git:hexsha": "81c4b9c042f271f0d8b9a4d50095876cd54e05a2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2.0"
     },
     {

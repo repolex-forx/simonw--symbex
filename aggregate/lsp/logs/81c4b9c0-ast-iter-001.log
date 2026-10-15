@@ -1,0 +1,7 @@
+[2026-10-15T09:07:35Z] === AST ITERATION 1 START | repo=simonw/symbex sha=81c4b9c0 ===
+[2026-10-15T09:07:35Z] [iter=1] PHASE START: ast repo=simonw/symbex sha=81c4b9c0
+[2026-10-15T09:07:35Z] [iter=1] Building AST aggregate chunks
+[2026-10-15T09:07:40Z] [iter=1] AST chunks built count=1 triples=72884
+[2026-10-15T09:07:40Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/81c4b9c042f271f0d8b9a4d50095876cd54e05a2/.complete
+[2026-10-15T09:07:40Z] [iter=1] PHASE END: ast elapsed_s=5 elapsed_min=0.1
+[2026-10-15T09:07:40Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
