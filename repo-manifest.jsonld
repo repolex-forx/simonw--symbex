@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/simonw/symbex/commit/81c4b9c042f271f0d8b9a4d50095876cd54e05a2",
       "git:hexsha": "81c4b9c042f271f0d8b9a4d50095876cd54e05a2",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2.0"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2.0",
+      "repolex:parsedAt": "2026-10-15T09:08:37.959583+00:00"
     },
     {
       "@id": "https://repolex.ai/r/simonw/symbex/commit/18d1c0b7d6c2ea245919ed9f0943b2bfe7b0a8db",
