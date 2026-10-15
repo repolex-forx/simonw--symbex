@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "symbex",
+  "versions": [
+    {
+      "commit": "81c4b9c042f271f0d8b9a4d50095876cd54e05a2",
+      "tag": "2.0",
+      "parsed_at": "2026-10-15T09:08:37.960115+00:00"
+    }
+  ]
+}
